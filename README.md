@@ -47,6 +47,11 @@
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Comment by Yubaraj Shrestha on Background color does not change after cropping the image in cropperjs](https://stackoverflow.com/questions/62578324/background-color-does-not-change-after-cropping-the-image-in-cropperjs)
+- [Comment by Yubaraj Shrestha on Background color does not change after cropping the image in cropperjs](https://stackoverflow.com/questions/62578324/background-color-does-not-change-after-cropping-the-image-in-cropperjs)
+- [Comment by Yubaraj Shrestha on Background color does not change after cropping the image in cropperjs](https://stackoverflow.com/questions/62578324/background-color-does-not-change-after-cropping-the-image-in-cropperjs)
+- [Authentication in Iframe APi Jitsi](https://stackoverflow.com/questions/62578288/authentication-in-iframe-api-jitsi)
+- [Comment by Yubaraj Shrestha on Get most recent row with group by and Laravel](https://stackoverflow.com/questions/43282161/get-most-recent-row-with-group-by-and-laravel/43282656#43282656)
 <!-- STACKOVERFLOW:END -->
 
 ### 📺 Latest YouTube Videos
