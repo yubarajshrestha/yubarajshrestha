@@ -47,11 +47,11 @@
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Comment by Yubaraj Shrestha on Background color does not change after cropping the image in cropperjs](https://stackoverflow.com/questions/62578324/background-color-does-not-change-after-cropping-the-image-in-cropperjs)
+- [Comment by Yubaraj Shrestha on Background color does not change after cropping the image in cropperjs](https://stackoverflow.com/questions/62578324/background-color-does-not-change-after-cropping-the-image-in-cropperjs)
+- [Comment by Yubaraj Shrestha on Background color does not change after cropping the image in cropperjs](https://stackoverflow.com/questions/62578324/background-color-does-not-change-after-cropping-the-image-in-cropperjs)
 - [Authentication in Iframe APi Jitsi](https://stackoverflow.com/questions/62578288/authentication-in-iframe-api-jitsi)
-- [Answer by Yubaraj Shrestha for Why html loaded to another html file with jquery does not appear correctly?](https://stackoverflow.com/questions/59340437/why-html-loaded-to-another-html-file-with-jquery-does-not-appear-correctly/59341976#59341976)
-- [I am unable to publish app in play store, any ideas?](https://stackoverflow.com/questions/56032512/i-am-unable-to-publish-app-in-play-store-any-ideas)
-- [Answer by Yubaraj Shrestha for Android percent screen width in RecyclerView item](https://stackoverflow.com/questions/51201482/android-percent-screen-width-in-recyclerview-item/51387079#51387079)
-- [Answer by Yubaraj Shrestha for Last inserted id Inside transaction with Lumen/Laravel](https://stackoverflow.com/questions/51380219/last-inserted-id-inside-transaction-with-lumen-laravel/51382453#51382453)
+- [Comment by Yubaraj Shrestha on Get most recent row with group by and Laravel](https://stackoverflow.com/questions/43282161/get-most-recent-row-with-group-by-and-laravel/43282656#43282656)
 <!-- STACKOVERFLOW:END -->
 
 ### 📺 Latest YouTube Videos
