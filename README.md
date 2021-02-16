@@ -73,7 +73,12 @@
 
 ---
 
-<img align="left" alt="Yubaraj Shrestha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yubarajshrestha&show_icons=true&hide_border=true" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yubarajshrestha&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubarajshrestha&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+</p>
+
+---
 
 [website]: https://yubarajshrestha.com.np
 [twitter]: https://twitter.com/meyubaraj
