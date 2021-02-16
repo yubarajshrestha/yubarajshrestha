@@ -78,7 +78,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubarajshrestha&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 </p>
 
----
 
 [website]: https://yubarajshrestha.com.np
 [twitter]: https://twitter.com/meyubaraj
