@@ -57,11 +57,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Database Migration](https://www.youtube.com/watch?v=3gBH54yMBZ4)
+- [Directory Structure](https://www.youtube.com/watch?v=AvZZOqx89h4)
+- [Application Setup](https://www.youtube.com/watch?v=dwdZSBvdbK8)
+- [Masonite 4 API Development](https://www.youtube.com/watch?v=sqFrmwT-qvU)
 - [Impressive Github Profile](https://www.youtube.com/watch?v=0iU5tcpEDII)
-- [Website Design](https://www.youtube.com/watch?v=jipEX4b9v0w)
-- [In BattleGround](https://www.youtube.com/watch?v=b-IjGLlhH74)
-- [In BattleGround SOLO](https://www.youtube.com/watch?v=S_ftVXg_zOc)
-- [In BattleGround after Decade](https://www.youtube.com/watch?v=hMg4v4xypPY)
 <!-- YOUTUBE:END -->
 
 ---
