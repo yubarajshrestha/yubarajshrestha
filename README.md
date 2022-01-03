@@ -57,11 +57,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Models](https://www.youtube.com/watch?v=AL8HIOf2bFI)
 - [Database Migration](https://www.youtube.com/watch?v=3gBH54yMBZ4)
 - [Directory Structure](https://www.youtube.com/watch?v=AvZZOqx89h4)
 - [Application Setup](https://www.youtube.com/watch?v=dwdZSBvdbK8)
 - [Masonite 4 API Development](https://www.youtube.com/watch?v=sqFrmwT-qvU)
-- [Impressive Github Profile](https://www.youtube.com/watch?v=0iU5tcpEDII)
 <!-- YOUTUBE:END -->
 
 ---
