@@ -57,11 +57,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [API Setup and Authentication](https://www.youtube.com/watch?v=RNpNvFTGMes)
 - [Routes and Controllers](https://www.youtube.com/watch?v=m57z4D4t794)
 - [Database Seeders and Factories](https://www.youtube.com/watch?v=yfMCaUmaDVU)
 - [Models](https://www.youtube.com/watch?v=AL8HIOf2bFI)
 - [Database Migration](https://www.youtube.com/watch?v=3gBH54yMBZ4)
-- [Directory Structure](https://www.youtube.com/watch?v=AvZZOqx89h4)
 <!-- YOUTUBE:END -->
 
 ---
