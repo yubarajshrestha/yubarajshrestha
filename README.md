@@ -57,11 +57,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Masonite Frontend Vue and Tailwind Setup](https://www.youtube.com/watch?v=rEW_-drDEBU)
 - [API Data Validation](https://www.youtube.com/watch?v=1e2jEDgfZR4)
 - [API Setup and Authentication](https://www.youtube.com/watch?v=RNpNvFTGMes)
 - [Routes and Controllers](https://www.youtube.com/watch?v=m57z4D4t794)
 - [Database Seeders and Factories](https://www.youtube.com/watch?v=yfMCaUmaDVU)
-- [Models](https://www.youtube.com/watch?v=AL8HIOf2bFI)
 <!-- YOUTUBE:END -->
 
 ---
