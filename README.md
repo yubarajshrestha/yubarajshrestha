@@ -5,7 +5,7 @@
 - 🌱 I’m currently home locked because of COVID-19 😔
 - ⚡ Fun fact: I love to draw and currently practicing guitar
 
-<br/>
+---
 
 ### Connect with me:
 
@@ -15,7 +15,7 @@
 [<img align="left" alt="Yubaraj Shrestha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Yubaraj Shrestha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br /><br />
+<br/><br/>
 
 ### Languages and Tools:
 
@@ -42,9 +42,17 @@
 <img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
----
+<br/><br/>
 
-<br /><br /><br />
+### Recent OpenSource Projects
+
+| Project | Stats | Framework |
+| :---         |     :---:      |          ---: |
+| Filemanager   | <img alt="GitHub Workflow Status" src="https://github.com/yubarajshrestha/masonite-filemanager/actions/workflows/python-package.yml/badge.svg"> <img alt="PyPI" src="https://img.shields.io/pypi/v/masonite-filemanager"> <a href="https://github.com/yubarajshrestha/masonite-filemanager"><img alt="star" src="https://img.shields.io/github/stars/yubarajshrestha/masonite-filemanager" /></a> | Masonite |
+| Instant Articles   | <img alt="GitHub Workflow Status" src="https://github.com/yubarajshrestha/masonite-instant-articles/actions/workflows/python-package.yml/badge.svg"> <img alt="PyPI" src="https://img.shields.io/pypi/v/masonite-instant-article"> <a href="https://github.com/yubarajshrestha/masonite-instant-articles"><img alt="star" src="https://img.shields.io/github/stars/yubarajshrestha/masonite-instant-articles" /></a> | Masonite |
+| Minio Storage Driver   | <img alt="PyPI" src="https://img.shields.io/pypi/v/minio-driver"> <a href="https://github.com/yubarajshrestha/minio-masonite-driver"><img alt="star" src="https://img.shields.io/github/stars/yubarajshrestha/minio-masonite-driver" /></a> | Masonite |
+
+---
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
