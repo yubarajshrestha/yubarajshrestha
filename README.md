@@ -53,6 +53,9 @@
 | Minio Storage Driver   | <img alt="PyPI" src="https://img.shields.io/pypi/v/minio-driver"> <a href="https://github.com/yubarajshrestha/minio-masonite-driver"><img alt="star" src="https://img.shields.io/github/stars/yubarajshrestha/minio-masonite-driver" /></a> | Masonite |
 
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
