@@ -68,11 +68,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Masonite Application Deployment using Docker](https://www.youtube.com/watch?v=YYlo3qf5fCY)
 - [Model Attributes - Masonite Tutorial](https://www.youtube.com/watch?v=I8SJY6mo6bM)
 - [Frontend Vue and Tailwind Setup - Masonite Tutorial](https://www.youtube.com/watch?v=rEW_-drDEBU)
 - [API Data Validation - Masonite Tutorial](https://www.youtube.com/watch?v=1e2jEDgfZR4)
 - [API Setup and Authentication - Masonite Tutorial](https://www.youtube.com/watch?v=RNpNvFTGMes)
-- [Routes and Controllers - Masonite Tutorial](https://www.youtube.com/watch?v=m57z4D4t794)
 <!-- YOUTUBE:END -->
 
 ---
