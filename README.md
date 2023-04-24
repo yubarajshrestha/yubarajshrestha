@@ -21,22 +21,6 @@
 
 <img src="tools.png" style="width: 100%" />
 
-
-### Recent OpenSource Projects
-
-| Project | Stats | Framework |
-| :---         |     :---:      |          ---: |
-| [Permission/ACL](https://github.com/yubarajshrestha/masonite-permission) | <img alt="GitHub Workflow Status" src="https://github.com/yubarajshrestha/masonite-permission/actions/workflows/pythonapp.yml/badge.svg"> <img alt="PyPI" src="https://img.shields.io/pypi/v/masonite-permission"> <a href="https://github.com/yubarajshrestha/masonite-permission/stargazers"><img alt="star" src="https://img.shields.io/github/stars/yubarajshrestha/masonite-permission" /></a> <img alt="downloads" src="https://img.shields.io/pypi/dm/masonite-permission?style=flat" /> | Masonite |
-| [Multitenancy](https://github.com/yubarajshrestha/masonite-multitenancy)   | <img alt="GitHub Workflow Status" src="https://github.com/yubarajshrestha/masonite-multitenancy/actions/workflows/pythonapp.yml/badge.svg"> <img alt="PyPI" src="https://img.shields.io/pypi/v/masonite-multitenancy"> <a href="https://github.com/yubarajshrestha/masonite-multitenancy"><img alt="star" src="https://img.shields.io/github/stars/yubarajshrestha/masonite-multitenancy" /></a> <img alt="downloads" src="https://img.shields.io/pypi/dm/masonite-multitenancy?style=flat" /> | Masonite |
-| [Audit Log](https://github.com/yubarajshrestha/masonite-audit)   | <img alt="GitHub Workflow Status" src="https://github.com/yubarajshrestha/masonite-audit/actions/workflows/pythonapp.yml/badge.svg"> <img alt="PyPI" src="https://img.shields.io/pypi/v/masonite-audit"> <a href="https://github.com/yubarajshrestha/masonite-audit"><img alt="star" src="https://img.shields.io/github/stars/yubarajshrestha/masonite-audit" /></a> <img alt="downloads" src="https://img.shields.io/pypi/dm/masonite-audit?style=flat" /> | Masonite |
-| [Filemanager (WIP)](https://github.com/yubarajshrestha/masonite-filemanager)   | <img alt="GitHub Workflow Status" src="https://github.com/yubarajshrestha/masonite-filemanager/actions/workflows/python-package.yml/badge.svg"> <img alt="PyPI" src="https://img.shields.io/pypi/v/masonite-filemanager"> <a href="https://github.com/yubarajshrestha/masonite-filemanager"><img alt="star" src="https://img.shields.io/github/stars/yubarajshrestha/masonite-filemanager" /></a> <img alt="downloads" src="https://img.shields.io/pypi/dm/masonite-filemanager?style=flat" /> | Masonite |
-| [Instant Articles](https://github.com/yubarajshrestha/masonite-instant-articles)   | <img alt="GitHub Workflow Status" src="https://github.com/yubarajshrestha/masonite-instant-articles/actions/workflows/python-package.yml/badge.svg"> <img alt="PyPI" src="https://img.shields.io/pypi/v/masonite-instant-article"> <a href="https://github.com/yubarajshrestha/masonite-instant-articles"><img alt="star" src="https://img.shields.io/github/stars/yubarajshrestha/masonite-instant-articles" /></a> <img alt="downloads" src="https://img.shields.io/pypi/dm/masonite-instant-article?style=flat" /> | Masonite |
-| [Minio Storage Driver](https://github.com/yubarajshrestha/minio-masonite-driver)   | <img alt="PyPI" src="https://img.shields.io/pypi/v/minio-driver"> <a href="https://github.com/yubarajshrestha/minio-masonite-driver"><img alt="star" src="https://img.shields.io/github/stars/yubarajshrestha/minio-masonite-driver" /></a> <img alt="downloads" src="https://img.shields.io/pypi/dm/minio-driver?style=flat" /> | Masonite |
----
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
----
-
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Authentication in Iframe APi Jitsi](https://stackoverflow.com/questions/62578288/authentication-in-iframe-api-jitsi)
