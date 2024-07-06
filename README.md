@@ -50,7 +50,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yubarajshrestha&show_icons=true&count_private=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubarajshrestha&layout=compact&hide=php&langs_count=6" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubarajshrestha&size_weight=0.5&count_weight=0.5&&langs_count=8&layout=compact&show_owner=true" /><br/>
 </p>
 
 [website]: https://yubarajshrestha.com.np
